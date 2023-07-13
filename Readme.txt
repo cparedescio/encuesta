@@ -1,6 +1,2 @@
-Thanks for downloading this template!
-
-Template Name: NiceAdmin
-Template URL: https://bootstrapmade.com/nice-admin-bootstrap-admin-html-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Este es el codigo de la pagina de encuestas  para la industria 4.0  
+esta version  contiene el codigo en php. 
